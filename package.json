@@ -1,0 +1,22 @@
+{
+  "name": "mailjet-nodejs-wrapper-test",
+  "version": "1.0.0",
+  "description": "test mailjet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Lyubomir Atanasov",
+  "license": "ISC",
+  "dependencies": {
+    "node-mailjet": "^3.0.6"
+  },
+  "devDependencies": {}
+}
